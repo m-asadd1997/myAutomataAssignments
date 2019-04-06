@@ -1,0 +1,6 @@
+c:\users\asad qureshi\documents\visual studio 2012\Projects\MooreMachineProgram\MooreMachineProgram\bin\Debug\MooreMachineProgram.exe.config
+c:\users\asad qureshi\documents\visual studio 2012\Projects\MooreMachineProgram\MooreMachineProgram\bin\Debug\MooreMachineProgram.exe
+c:\users\asad qureshi\documents\visual studio 2012\Projects\MooreMachineProgram\MooreMachineProgram\bin\Debug\MooreMachineProgram.pdb
+c:\users\asad qureshi\documents\visual studio 2012\Projects\MooreMachineProgram\MooreMachineProgram\obj\Debug\MooreMachineProgram.csprojResolveAssemblyReference.cache
+c:\users\asad qureshi\documents\visual studio 2012\Projects\MooreMachineProgram\MooreMachineProgram\obj\Debug\MooreMachineProgram.exe
+c:\users\asad qureshi\documents\visual studio 2012\Projects\MooreMachineProgram\MooreMachineProgram\obj\Debug\MooreMachineProgram.pdb
